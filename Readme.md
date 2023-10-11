@@ -9,7 +9,7 @@ I'm a data engineering enthusiast navigating the data streams at **Universiti Te
 - 🤝 Email: samyun@graduate.utm.my
 - ⚡ Fun fact: 183cm Scorpio ESTJ
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChiayunSam&label=Profile%20views&color=0e75b6&style=flat" alt="ChiayunSam" /> </p>
+  <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChiayunSam&label=Profile%20views&color=0e75b6&style=flat" alt="ChiayunSam" /> </p>
 <br> </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
