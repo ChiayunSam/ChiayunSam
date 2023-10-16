@@ -8,6 +8,8 @@ I'm a data engineering enthusiast navigating the data streams at **Universiti Te
 - 📫 How to reach me: https://www.linkedin.com/in/sam-chia-yun-b92a37271/
 - 🤝 Email: samyun@graduate.utm.my
 - ⚡ Fun fact: 183cm Scorpio ESTJ
+<br>
+My resume video:- https://www.youtube.com/watch?v=fCX52x4Aqa8
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ChiayunSam&label=Profile%20views&color=0e75b6&style=flat" alt="ChiayunSam" /> </p>
 <br> </br>
